@@ -1,0 +1,13 @@
+{
+   "blockdevices": [
+      {"name":"sda", "fstype":null, "fsver":null, "label":null, "uuid":null, "fsavail":null, "fsuse%":null, "mountpoint":null,
+         "children": [
+            {"name":"sda1", "fstype":"ext4", "fsver":"1.0", "label":null, "uuid":"34b341ba-f211-4559-ba3f-e13839528077", "fsavail":"11G", "fsuse%":"36%", "mountpoint":"/"},
+            {"name":"sda2", "fstype":null, "fsver":null, "label":null, "uuid":null, "fsavail":null, "fsuse%":null, "mountpoint":null},
+            {"name":"sda5", "fstype":"swap", "fsver":"1", "label":null, "uuid":"c38a7560-c8a9-49ca-812d-bb4ce66850bc", "fsavail":null, "fsuse%":null, "mountpoint":"[SWAP]"}
+         ]
+      },
+      {"name":"sdb", "fstype":null, "fsver":null, "label":null, "uuid":null, "fsavail":null, "fsuse%":null, "mountpoint":null},
+      {"name":"sr0", "fstype":null, "fsver":null, "label":null, "uuid":null, "fsavail":null, "fsuse%":null, "mountpoint":null}
+   ]
+}
